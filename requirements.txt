@@ -4,7 +4,6 @@ transformers>=4.30.0
 datasets>=2.0.0
 langchain>=0.0.148
 faiss-cpu>=1.7.1
-openai>=0.27.0
 PyPDF2>=1.26.0
 bitsandbytes>=0.37.0
 accelerate>=0.17.0
